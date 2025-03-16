@@ -23,6 +23,10 @@ body {
     height: 120px;
 }
 
+#title {
+    text-align: center;
+}
+
 .card h3 {
     font-size: 20px;
 }
